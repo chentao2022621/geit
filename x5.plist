@@ -38,15 +38,15 @@
    <dict>
     <key>bundle-identifier</key>
     <!-- BundleID，就是新建app时的包名 -->
-    <string>com.justep.x5</string>
+    <string>com.geit.hisApp</string>
     <key>bundle-version</key>
     <!-- 版本号 -->
-    <string>1.0.0</string>
+    <string>1.0.3</string>
     <key>kind</key>
     <string>software</string>
     <key>title</key>
     <!-- 安装app时的提示信息 -->
-    <string>X5 App download</string>
+    <string>X5 App download2</string>
    </dict>
   </dict>
  </array>
